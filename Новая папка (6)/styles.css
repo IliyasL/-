@@ -1,6 +1,7 @@
  body {
      margin-top: 50px;
      font-family: Arial, Helvetica, sans-serif;
+     background-color: #118da8;
  }
  
  .card {
@@ -11,7 +12,7 @@
      align-items: center;
      gap: 53px;
      padding: 40px;
-     border-radius: 32px;
+     border-radius: 16px;
  }
  
  .card-content {}
@@ -116,12 +117,15 @@
  
  .card3 {
      width: 380px;
+     border-radius: 16px;
+     background-color: #FFFFFF;
  }
  
  .box1 {
-     padding: 50px 89px 50px 44px;
      border: 1px solid #F2F6FA;
-     width: 380px;
+     border-radius: 16px;
+     padding: 50px 89px 50px 44px;
+     color: #FFFFFF;
  }
  
  .name {
